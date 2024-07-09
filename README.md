@@ -3,10 +3,10 @@
 
 ## Daily Progress
 
--**July 10,2024**:
--Learned about css basic 
--How to css decleard and What is css why need css and more
--![image](https://github.com/Kavi2604/freecodecamp-progress/assets/163160787/c6bef1b5-5722-4361-a7a1-7cd8be216a8c)
+- **July 10, 2024**:
+  - Learned about Css.
+  - How to Decleard Css and more
+    -![image](https://github.com/Kavi2604/freecodecamp-progress/assets/163160787/c6bef1b5-5722-4361-a7a1-7cd8be216a8c)
 
 
 - **July 9, 2024**:

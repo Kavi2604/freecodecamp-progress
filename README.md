@@ -3,10 +3,16 @@
 
 ## Daily Progress
 
+-**July 10,2024**:
+-Learned about css basic 
+-How to css decleard and What is css why need css and more
+-![image](https://github.com/Kavi2604/freecodecamp-progress/assets/163160787/c6bef1b5-5722-4361-a7a1-7cd8be216a8c)
+
+
 - **July 9, 2024**:
   - Learned about HTML forms and form validation.
-  - Implemented basic form handling using JavaScript.
-  - Explored CSS flexbox for layout design.
+  - And Advance tags like Semantic Tags
+  - To create form page without css
   - ![image](https://github.com/Kavi2604/freecodecamp-progress/assets/163160787/d07bef18-0f58-44a6-9c10-c00b76f2e5f9)
 
 

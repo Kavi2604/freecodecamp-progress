@@ -2,6 +2,11 @@
 "# freecodecamp-progress" 
 
 ## Daily Progress
+-**July 11, 2024**:
+- Basic of css.
+- design cafe menu.
+  ![image](https://github.com/Kavi2604/freecodecamp-progress/assets/163160787/23bec6c8-6ec6-4d2c-ba51-797d1b72ea68)
+
 
 - **July 10, 2024**:
   - Learned about Css.

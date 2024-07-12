@@ -3,7 +3,7 @@
 
 ## Daily Progress
 -**July 12, 2024**:
--Designing a complete café menu involves planning layout, selecting fonts and colors, adding images, organizing content, and ensuring readability and appeal.
+- Designing a complete café menu involves planning layout, selecting fonts and colors, adding images, organizing content, and ensuring readability and appeal.
 ![image](https://github.com/user-attachments/assets/53eda615-806c-44fc-b644-c37553e493db)
 
 

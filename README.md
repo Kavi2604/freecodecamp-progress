@@ -2,9 +2,18 @@
 "# freecodecamp-progress" 
 
 ## Daily Progress
+-**July 14, 2024**:
+- Create a basic HTML structure.
+- Define the marker element in HTML.
+- Style the marker using CSS.
+- Apply the CSS to position and design the marker.
+- ![image](https://github.com/user-attachments/assets/c89a0858-b0b6-45df-978d-07659f308f4c)
+
+
 -**July 12, 2024**:
 - Designing a complete café menu involves planning layout, selecting fonts and colors, adding images, organizing content, and ensuring readability and appeal.
 ![image](https://github.com/user-attachments/assets/53eda615-806c-44fc-b644-c37553e493db)
+
 
 
 -**July 11, 2024**:

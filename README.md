@@ -2,12 +2,21 @@
 "# freecodecamp-progress" 
 
 ## Daily Progress
+
+-**July 15, 2024**:
+- CSS Styling: Learned to apply CSS properties to HTML elements to create visually appealing designs.
+- Class Targeting: Used CSS to target specific classes and apply width and height properties.
+- Color Customization: Customized the appearance of markers by setting different colors.
+- ![image](https://github.com/user-attachments/assets/46041873-ed1e-427a-9da0-fb1779506092)
+ 
 -**July 14, 2024**:
 - Create a basic HTML structure.
 - Define the marker element in HTML.
 - Style the marker using CSS.
 - Apply the CSS to position and design the marker.
 - ![image](https://github.com/user-attachments/assets/c89a0858-b0b6-45df-978d-07659f308f4c)
+  
+
 
 
 -**July 12, 2024**:
